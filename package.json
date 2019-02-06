@@ -1,0 +1,20 @@
+{
+  "name": "electron-jira-app",
+  "version": "1.0.0",
+  "description": "JIRA embedded into an Electron Desktop Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natesan/electron-jira-app.git"
+  },
+  "author": "rajat.talwar, natesan.sivagnanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natesan/electron-jira-app/issues"
+  },
+  "homepage": "https://github.com/Natesan/electron-jira-app#readme"
+}
